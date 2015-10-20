@@ -1,0 +1,21 @@
+{
+  "name": "comp-2",
+  "homepage": "https://github.com/adwilk/bower-svn-files",
+  "authors": [
+    "adwilk <adwilk@mac.com>"
+  ],
+  "description": "mock component",
+  "main": "comp-2.js",
+  "moduleType": [],
+  "keywords": [
+    "mock"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

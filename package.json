@@ -1,0 +1,29 @@
+{
+  "name": "bower-svn-files",
+  "version": "1.0.0",
+  "description": "Collect main bower files for SVN projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adwilk/bower-svn-files.git"
+  },
+  "keywords": [
+    "bower",
+    "svn"
+  ],
+  "author": "adwilk@mac.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adwilk/bower-svn-files/issues"
+  },
+  "homepage": "https://github.com/adwilk/bower-svn-files#readme",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  },
+  "dependencies": {
+    "path": "^0.12.7"
+  }
+}
