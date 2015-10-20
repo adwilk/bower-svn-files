@@ -1,5 +1,7 @@
 #bower-svn-files
 
+lists main files of installed bower components that come from an svn repository
+
 install it
 `
 npm i --save bower-svn-files
